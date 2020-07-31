@@ -1,7 +1,7 @@
 {
   "name": "electron-webpack-vue-skeleton",
   "productName": "electron-webpack-vue-skeleton",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "license": "MIT",
   "scripts": {
@@ -18,12 +18,12 @@
     "source-map-support": "^0.5.16"
   },
   "devDependencies": {
-    "electron": "^8.3.1",
-    "electron-builder": "^22.7.0",
-    "electron-devtools-installer": "^3.0.0",
+    "electron": "^9.1.2",
+    "electron-builder": "^22.8.0",
+    "electron-devtools-installer": "^3.1.1",
     "electron-webpack": "^2.8.2",
     "electron-webpack-vue": "^2.4.0",
     "vue": "^2.6.11",
-    "webpack": "^4.43.0"
+    "webpack": "^4.44.1"
   }
 }
